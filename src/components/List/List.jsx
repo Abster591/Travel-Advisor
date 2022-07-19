@@ -35,7 +35,7 @@ function List({
   return (
     <div className={classes.container}>
       <Typography variant="h4">
-        Restaurents, Hotels Attractions around you
+        Restaurants, Hotels Attractions around you
       </Typography>
       {isLoading ? (
         <div className={classes.loading}>

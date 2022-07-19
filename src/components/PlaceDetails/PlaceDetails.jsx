@@ -28,7 +28,7 @@ function PlaceDetails({ place, selected, refProp }) {
         image={
           place.photo
             ? place.photo.images.large.url
-            : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
+            : "https://img.etimg.com/thumb/width-1200,height-900,imgsize-829462,resizemode-1,msid-82666514/industry/services/hotels-/-restaurants/staggered-lockdowns-start-to-bite-battered-restaurants.jpg"
         }
       />
       <CardContent>
